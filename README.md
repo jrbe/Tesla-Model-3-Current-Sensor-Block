@@ -27,4 +27,7 @@ Current Sensor Assy
 Temp sensor PCBs panelized
 <img width="1249" height="1354" alt="image" src="https://github.com/user-attachments/assets/0bb3c217-afd9-4a39-b6e1-004fe322c0b0" />
 Order in .4mm thickness to match OE PCBs.  Note, the 0402 thermistor is not verified yet!!!  Added an extra VIA and copper pour near the base to help prevent cut traces when installing against sharp plated through hole slots.
+Uses v-cuts between individual pcbs to simplify breakout.
+<img width="816" height="1038" alt="image" src="https://github.com/user-attachments/assets/02306116-8a7c-4363-ade6-8d3c632326b9" />
+
 
