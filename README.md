@@ -24,4 +24,6 @@ Current Sensor Assy
 
 <img width="523" height="210" alt="image" src="https://github.com/user-attachments/assets/d648523c-df69-4adb-9fc4-0a9f34dd1e91" />
 
+Temp sensor PCBs panelized
+<img width="1249" height="1354" alt="image" src="https://github.com/user-attachments/assets/0bb3c217-afd9-4a39-b6e1-004fe322c0b0" />
 
