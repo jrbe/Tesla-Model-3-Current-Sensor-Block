@@ -1,0 +1,44 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "hspace": "3mm",
+        "vspace": "2mm",
+        "vbackbone": "5mm",
+        "vboneskip": "2",
+        "rotation": "180deg",
+        "rows": "4",
+        "cols": "6",
+        "vbonecut": "False",
+        "hbonecut": "False",
+        "baketext": "False"
+    },
+    "tabs": {
+        "hwidth": "6mm",
+        "spacing": "12mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "cutcurves": "True",
+        "layer": "User.1"
+    },
+    "framing": {
+        "type": "frame",
+        "hspace": "3mm",
+        "cuts": "h"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "soldermaskmargin": "1.5mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "6mm",
+        "voffset": "3.85mm",
+        "opening": "2mm"
+    },
+    "post": {
+        "millradiusouter": "1mm"
+    }
+}
