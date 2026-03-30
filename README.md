@@ -26,5 +26,5 @@ Current Sensor Assy
 
 Temp sensor PCBs panelized
 <img width="1249" height="1354" alt="image" src="https://github.com/user-attachments/assets/0bb3c217-afd9-4a39-b6e1-004fe322c0b0" />
-Order in .4mm thickness to match OE PCBs.
+Order in .4mm thickness to match OE PCBs.  Note, the thermistor is not verified yet!!!
 
