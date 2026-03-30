@@ -25,9 +25,9 @@ Current Sensor Assy
 <img width="523" height="210" alt="image" src="https://github.com/user-attachments/assets/d648523c-df69-4adb-9fc4-0a9f34dd1e91" />
 
 Temp sensor tower PCB style
+
 <img width="365" height="407" alt="image" src="https://github.com/user-attachments/assets/bc366b52-2856-473d-a36f-619398fa7b05" />
 <img width="308" height="394" alt="image" src="https://github.com/user-attachments/assets/5e1911e8-6d14-4576-9c9c-6a1b18e6938e" />
-
 <img width="257" height="446" alt="image" src="https://github.com/user-attachments/assets/724c1e38-34b0-44c3-b584-4ca6235e1a86" />
 
 
