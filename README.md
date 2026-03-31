@@ -37,4 +37,8 @@ Order in .4mm thickness to match OE PCBs.  Note, the 0402 thermistor is not veri
 Uses v-cuts between individual pcbs to simplify breakout.
 <img width="816" height="1038" alt="image" src="https://github.com/user-attachments/assets/02306116-8a7c-4363-ade6-8d3c632326b9" />
 
+Added Kicad 10 symbol, footprint, and aligned step file for the Model 3 inverter temp sensors
+<img width="431" height="361" alt="image" src="https://github.com/user-attachments/assets/5396da45-3f2f-45d2-bec3-f07b5349bb44" />
+
+
 
