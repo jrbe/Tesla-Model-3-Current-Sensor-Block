@@ -1,11 +1,11 @@
 This is a reverse engineering of a Tesla Model 3 current sensor block assembly for OenInverter / EVBMW use.  This is a high voltage component, use this model at your own risk. If it fails it could inject high voltage into the board. Basically, if you dont know what you're doing, do not use this.
 
-Current Sensor Main Body
+Current Sensor Main Body (nothing to hold the lids in place yet and need to verify what the toroids need to fit properly.)
 
 <img width="1519" height="570" alt="image" src="https://github.com/user-attachments/assets/57146263-e6e9-45bb-ac2c-807bb6ab0949" />
 
 
-Current Sensor Toroid Lids
+Current Sensor Toroid Lids (nothing to hold them in place yet)
 
 <img width="814" height="429" alt="image" src="https://github.com/user-attachments/assets/fda2ddb7-8cea-4b0c-93d9-97a23ffc1d7b" />
 
@@ -33,11 +33,11 @@ Temp sensor tower PCB style
 
 Temp sensor PCBs panelized
 <img width="1249" height="1354" alt="image" src="https://github.com/user-attachments/assets/0bb3c217-afd9-4a39-b6e1-004fe322c0b0" />
-Order in .4mm thickness to match OE PCBs.  Note, the 0402 thermistor is not verified yet!!!  Added an extra VIA and copper pour near the base to help prevent cut traces when installing against sharp plated through hole slots.
+Order in .4mm thickness to match OE PCBs. .6mm should also work.  Note, the 0402 thermistor is not verified yet!!!  Added an extra VIA and copper pour near the base to help prevent cut traces when installing against sharp plated through hole slots.
 Uses v-cuts between individual pcbs to simplify breakout.
 <img width="816" height="1038" alt="image" src="https://github.com/user-attachments/assets/02306116-8a7c-4363-ade6-8d3c632326b9" />
 
-Added Kicad 10 symbol, footprint, and aligned step file for the Model 3 inverter temp sensors
+Added Kicad 10 symbol, footprint, and aligned step file for the Model 3 inverter temp sensors.
 <img width="431" height="361" alt="image" src="https://github.com/user-attachments/assets/5396da45-3f2f-45d2-bec3-f07b5349bb44" />
 
 
