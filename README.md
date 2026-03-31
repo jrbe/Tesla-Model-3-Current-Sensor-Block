@@ -1,4 +1,4 @@
-This is a reverse engineering of a Tesla Model 3 current sensor block assembly for OenInverter / EVBMW use.  This is a high voltage component, use this model at your own risk. If it fails it could inject high voltage into the board. Basically, if you dont know what you're doing, do not use this.
+This is a reverse engineering of a Tesla Model 3 inverter current sensor block assembly and temp sensors for OenInverter / EVBMW use.  This is a high voltage component, use this model at your own risk. If it fails it could inject high voltage into the board. Basically, if you dont know what you're doing, do not use this.
 
 Current Sensor Main Body (nothing to hold the lids in place yet and need to verify what the toroids need to fit properly.)
 
